@@ -7,7 +7,7 @@ Python | SQL | Excel | ML | Linux | Tableau
 As an Aspiring Data Scientist, I continuously explore the Data Science Landscape, mainly in Software Engineering, Data Engineering, Statistics, Linux & Data Visualization.
 
 *   🌍  I'm based in Zimbabwe
-*   🖥️  See my portfolio at [My portfolio](http://goodwellmafunga.github.io/goodwellmafunga-/)
+*   🖥️  See my portfolio at [my website](https://goodwellmafunga.github.io)
 *   ✉️  You can contact me at [mafungag2@gmail.com](mailto:mafungag2@gmail.com)
 *   🧠  I'm learning AI engineering
 *   🤝  I'm open to collaborating on Interesting and big projects
