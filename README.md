@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Goodwell Mafunga
 ========================================================================================================================================
 
-Python | SQL | Excel | ML | Linux | Tableau
+Python | T-SQL | ETL | ML | Linux | Tableau 
 -------------------------------------------
 
-As an Aspiring Data Scientist, I continuously explore the Data Science Landscape, mainly in Software Engineering, Data Engineering, Statistics, Linux & Data Visualization.
+Azure Certified Data Engineer and actively looking for opportunities.
 
 *   🌍  I'm based in Zimbabwe
 *   🖥️  See my portfolio at [my website](https://goodwellmafunga.github.io)
