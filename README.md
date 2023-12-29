@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Goodwell Mafunga
 ========================================================================================================================================
 
-Python | T-SQL | ETL | ML | Linux | Tableau 
+Python | T-SQL | ETL | ML | Django | Microsoft Azure 
 -------------------------------------------
 
 Azure Certified Data Engineer and actively looking for opportunities.
 
 *   🌍  I'm based in Zimbabwe
-*   🖥️  See my portfolio at [my website](https://goodwellmafunga.github.io)
 *   ✉️  You can contact me at [mafungag2@gmail.com](mailto:mafungag2@gmail.com)
 *   🧠  I'm learning AI engineering
 *   🤝  I'm open to collaborating on Interesting and big projects
