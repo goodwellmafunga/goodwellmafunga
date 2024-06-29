@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Goodwell Mafunga
 ========================================================================================================================================
 
-Python | T-SQL | ETL | ML | Django | Microsoft Azure 
+Python | SQL | ETL | ML | Django | Flask
 -------------------------------------------
-
-Azure Certified Data Engineer and actively looking for opportunities.
 
 *   🌍  I'm based in Zimbabwe
 *   ✉️  You can contact me at [mafungag2@gmail.com](mailto:mafungag2@gmail.com)
@@ -24,4 +22,7 @@ Azure Certified Data Engineer and actively looking for opportunities.
 </p>
 
 ### Socials
-<p align="left"> <a href="https://www.facebook.com/goodwellmafunga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/goodwellmafunga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/goodwellmafunga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+<a href="https://www.github.com/goodwellmafunga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/goodwellmafunga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
