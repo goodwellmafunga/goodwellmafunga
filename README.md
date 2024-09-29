@@ -6,7 +6,7 @@ Python | SQL | ETL | ML | Django | Flask
 
 *   🌍  I'm based in Zimbabwe
 *   ✉️  You can contact me at [mafungag2@gmail.com](mailto:mafungag2@gmail.com)
-*   🧠  I'm learning AI engineering
+*   🧠  I'm learning AZURE solutions
 *   🤝  I'm open to collaborating on Interesting and big projects
 *   ⚡  I love mountain climbing and travelling
 
