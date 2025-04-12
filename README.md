@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python | SQL | ETL | ML | Django | Flask
 -------------------------------------------
 
-*   🌍  I'm based in Zimbabwe
 *   ✉️  You can contact me at [mafungag2@gmail.com](mailto:mafungag2@gmail.com)
 *   🧠  I'm learning AZURE solutions
 *   🤝  I'm open to collaborating on Interesting and big projects
